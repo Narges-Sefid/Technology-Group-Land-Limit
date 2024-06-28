@@ -1,0 +1,7 @@
+Log file cannot be opened. Please check path. Trying to find:
+/mnt/c/Users/nsa127/Documents/GitHub/Test3/data_files/debug_logs folder
+Reading data files.[    0.26]
+Creating Temoa model instance.Exception found in create_temoa_instance
+Invalid constraint expression. The constraint expression resolved to a trivial Boolean (True) instead of a Pyomo object. Please modify your rule to return Constraint.Feasible instead of True.
+
+Error thrown for Constraint 'LandLimitConstraint[NS,2050,Wind]'
